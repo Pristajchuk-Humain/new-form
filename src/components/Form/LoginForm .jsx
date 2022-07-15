@@ -11,7 +11,7 @@ class LoginForm extends Component {
       this.props.onSumit({ login, password });
       form.reset();
     };
-  
+  gjhjkhnk
     render() {
       return (
         <form  className={s.form} type="onSubmit"onSubmit={this.handleSubmit}>
