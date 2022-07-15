@@ -8,4 +8,5 @@ export default {
     component: LoginForm,
 }
 
+
 export const Default = () => <LoginForm>My Form</LoginForm>
