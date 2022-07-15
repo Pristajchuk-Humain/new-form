@@ -1,0 +1,15 @@
+.button {
+        color: red;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+}
+.form {
+border: 10px solid greenyellow;
+border-radius: 4px;
+height: 300px;
+padding: 50px;
+width: 250px;
+
+}
